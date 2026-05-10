@@ -6,7 +6,7 @@
 
   <!-- 메인 홈 페이지 -->
   <url>
-    <loc>https://yourdomain.com/</loc> <!-- 실제 도메인 주소로 변경하세요 -->
+    <loc>https://hani.ai.kr/</loc> <!-- 실제 도메인 주소로 변경하세요 -->
     <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- MPS 소개 섹션 -->
   <url>
-    <loc>https://yourdomain.com/#philosophy</loc>
+    <loc>https://hani.ai.kr/#philosophy</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -22,7 +22,7 @@
 
   <!-- 데이터 리포트 섹션 -->
   <url>
-    <loc>https://yourdomain.com/#reports</loc>
+    <loc>https://hani.ai.kr/#reports</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
   <!-- 프로그램 및 비용 안내 -->
   <url>
-    <loc>https://yourdomain.com/#pricing</loc>
+    <loc>https://hani.ai.kr/#pricing</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -38,7 +38,7 @@
 
   <!-- 상세 진료 안내 (Knowledge Base) -->
   <url>
-    <loc>https://yourdomain.com/#knowledge</loc>
+    <loc>https://hani.ai.kr/#knowledge</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -46,7 +46,7 @@
 
   <!-- 의료진 소개 -->
   <url>
-    <loc>https://yourdomain.com/#team</loc>
+    <loc>https://hani.ai.kr/#team</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
